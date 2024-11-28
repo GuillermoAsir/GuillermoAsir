@@ -1,7 +1,9 @@
+<!-- BAner -->
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEgjOf1T4rO2Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690417498650?e=1738195200&v=beta&t=0CsBIHSO9OzyHH10SuaYcBk6FDoQz9I1EBC4p1QqiGI" align="center" style="width: 100%" />
 </div>  
-  
+
+### Hola!! Mi nombre es Guillermo y espero que mi contenido te pueda ayudar💻 
 
 <br/>  
 <!-- Connect with me  -->
@@ -25,7 +27,9 @@ Nota: Tu URL personalizada debe tener entre" target="_blank">
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+
+
+ 
 
 <div align="left"></div>  
 
