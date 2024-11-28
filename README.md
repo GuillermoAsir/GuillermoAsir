@@ -5,6 +5,14 @@
 
 ### Hola!! Mi nombre es Guillermo y espero que mi contenido te pueda ayudar💻 
 
+🎓Graduado en Sistemas Microinformático y Redes  
+  
+
+🖥️ Especialista en Ciberseguridad  
+  
+
+🏫 Cursando el Grado Superior en Administración de Sistemas en Red  
+
 <br/>  
 <!-- Connect with me  -->
 <a href="https://github.com/rishavanand" target="_blank">
@@ -44,9 +52,12 @@ Nota: Tu URL personalizada debe tener entre" target="_blank">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-
-
-
 </td></tr></table>  
 
 <br/> 
+
+
+<!-- Github Stats   -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
